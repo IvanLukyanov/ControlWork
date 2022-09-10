@@ -14,6 +14,10 @@ PrintArray(strArray);
 int rusultArraySize = SizeResultArray(strArray, maxLength);
 string[] resultArray = new string[resultArraySize];
 
+FillReultArray(strArray, resultArray, maxLength);
+Console.WriteLine("РезалтМассив");
+PrintArray(resultArray);
+
 void FillArray(string[] array)
 {
     for (int i = 0; i < array.Length; i++)
@@ -23,3 +27,16 @@ void FillArray(string[] array)
     }
 }
 
+void PrintArray(string[] array)
+{
+    Console.Write("[");
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (i == array.Length - 1) Console.Write($"'{array[i]}'");
+        else{
+            Console.Write($"'{array[i]}', ");
+        }
+    }
+    Console.Write("]");
+    Console.WriteLine();
+}
