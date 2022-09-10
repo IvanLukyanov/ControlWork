@@ -11,10 +11,10 @@ FillArray(strArray);
 Console.WriteLine("Массив");
 PrintArray(strArray);
 
-int rusultArraySize = SizeResultArray(strArray, maxLength);
+int resultArraySize = SizeResultArray(strArray, maxLength);
 string[] resultArray = new string[resultArraySize];
 
-FillReultArray(strArray, resultArray, maxLength);
+FillResultArray(strArray, resultArray, maxLength);
 Console.WriteLine("РезалтМассив");
 PrintArray(resultArray);
 
@@ -33,7 +33,8 @@ void PrintArray(string[] array)
     for (int i = 0; i < array.Length; i++)
     {
         if (i == array.Length - 1) Console.Write($"'{array[i]}'");
-        else{
+        else
+        {
             Console.Write($"'{array[i]}', ");
         }
     }
