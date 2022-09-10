@@ -40,3 +40,16 @@ void PrintArray(string[] array)
     Console.Write("]");
     Console.WriteLine();
 }
+
+int SizeResultArray(string[] array, int maxcount)
+{
+    int count = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= maxcount)
+        {
+            count++;
+        }
+    }
+    return count;
+}
