@@ -3,3 +3,13 @@ D:\GB\ДЗ\ControlWork\obj\Debug\net6.0\ControlWork.GeneratedMSBuildEditorConfig
 D:\GB\ДЗ\ControlWork\obj\Debug\net6.0\ControlWork.AssemblyInfoInputs.cache
 D:\GB\ДЗ\ControlWork\obj\Debug\net6.0\ControlWork.AssemblyInfo.cs
 D:\GB\ДЗ\ControlWork\obj\Debug\net6.0\ControlWork.csproj.CoreCompileInputs.cache
+D:\GB\ДЗ\ControlWork\bin\Debug\net6.0\ControlWork.exe
+D:\GB\ДЗ\ControlWork\bin\Debug\net6.0\ControlWork.deps.json
+D:\GB\ДЗ\ControlWork\bin\Debug\net6.0\ControlWork.runtimeconfig.json
+D:\GB\ДЗ\ControlWork\bin\Debug\net6.0\ControlWork.dll
+D:\GB\ДЗ\ControlWork\bin\Debug\net6.0\ControlWork.pdb
+D:\GB\ДЗ\ControlWork\obj\Debug\net6.0\ControlWork.dll
+D:\GB\ДЗ\ControlWork\obj\Debug\net6.0\refint\ControlWork.dll
+D:\GB\ДЗ\ControlWork\obj\Debug\net6.0\ControlWork.pdb
+D:\GB\ДЗ\ControlWork\obj\Debug\net6.0\ControlWork.genruntimeconfig.cache
+D:\GB\ДЗ\ControlWork\obj\Debug\net6.0\ref\ControlWork.dll
